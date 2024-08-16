@@ -35,7 +35,7 @@ I'm always open to collaborations and discussions on projects that aim to make a
 ### 💬 Get In Touch
 Feel free to reach out if you'd like to collaborate, share ideas, or just chat about ways to improve the educational experience for all students.
 
-📫 You can contact me at [your.email@example.com](mailto:your.email@example.com).
+📫 You can contact me at [lucas.volet@oremis.fr](mailto:lucas.volet@oremis.fr).
 
 ---
 
