@@ -27,7 +27,7 @@ On my GitHub, you'll find a collection of projects and initiatives that reflect 
 ### 🛠 My Skills
 Here are some of the technologies and tools I work with:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,sql,git,github,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,discord,gmail&theme=light)
 
 ### 👯 Let's Collaborate!
 I'm always open to collaborations and discussions on projects that aim to make a difference. If you're passionate about education, mental health, or social impact, let's connect!
