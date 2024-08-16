@@ -25,7 +25,7 @@ On my GitHub, you'll find a collection of projects and initiatives that reflect 
 - Exploring ways to leverage technology to support education and mental health.
 
 ### 🛠 My Skills
-Here are some of the technologies and tools I work with:
+Here are some of the technologies and tools I work with (and I don't have exceptional mastery of it, let's just say I like to touch everything):
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode,discord,gmail&theme=light)
 
